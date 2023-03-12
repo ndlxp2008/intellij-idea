@@ -1,0 +1,19 @@
+<application>
+  <component name="DependencyUISettings">
+    <option name="UI_FLATTEN_PACKAGES" value="false" />
+    <option name="UI_SHOW_MODULES" value="false" />
+  </component>
+  <component name="UISettings">
+    <option name="COLOR_BLINDNESS" value="deuteranopia" />
+    <option name="CONSOLE_COMMAND_HISTORY_LIMIT" value="1000" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="8" />
+    <option name="MAX_LOOKUP_WIDTH2" value="610" />
+    <option name="OVERRIDE_CONSOLE_CYCLE_BUFFER_SIZE" value="true" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="SHOW_MAIN_TOOLBAR" value="true" />
+    <option name="SHOW_MEMORY_INDICATOR" value="true" />
+    <option name="showTreeIndentGuides" value="true" />
+    <option name="SORT_LOOKUP_ELEMENTS_LEXICOGRAPHICALLY" value="true" />
+    <option name="CONTRAST_SCROLLBARS" value="true" />
+  </component>
+</application>

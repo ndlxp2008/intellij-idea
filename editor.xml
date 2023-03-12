@@ -1,0 +1,54 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
+    <option name="ADD_IMPORTS_ON_PASTE" value="3" />
+    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="200" />
+    <option name="SHOW_METHOD_SEPARATORS" value="true" />
+  </component>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="16" />
+    <option name="LINE_SPACING" value="2.0" />
+    <option name="USE_LIGATURES" value="true" />
+    <option name="SECONDARY_FONT_FAMILY" value="Fira Code Light" />
+  </component>
+  <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="CFML" value="true" />
+        <entry key="CSS" value="false" />
+        <entry key="FTL" value="false" />
+        <entry key="Groovy" value="false" />
+        <entry key="HTML" value="false" />
+        <entry key="Haml" value="false" />
+        <entry key="JAVA" value="true" />
+        <entry key="JSON" value="true" />
+        <entry key="JSP" value="false" />
+        <entry key="JSPX" value="false" />
+        <entry key="JavaScript" value="false" />
+        <entry key="LESS" value="false" />
+        <entry key="Markdown" value="true" />
+        <entry key="SASS" value="true" />
+        <entry key="SCSS" value="false" />
+        <entry key="SQL" value="true" />
+        <entry key="Stylus" value="false" />
+        <entry key="TypeScript" value="false" />
+        <entry key="VTL" value="false" />
+        <entry key="XHTML" value="false" />
+        <entry key="XML" value="true" />
+        <entry key="kotlin" value="false" />
+        <entry key="yaml" value="true" />
+      </map>
+    </option>
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*" />
+    <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="true" />
+    <option name="IS_WHITESPACES_SHOWN" value="true" />
+    <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
+  </component>
+  <component name="XmlEditorOptions">
+    <option name="showCssInlineColorPreview" value="true" />
+  </component>
+</application>

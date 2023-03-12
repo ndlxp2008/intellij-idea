@@ -1,0 +1,10 @@
+<application>
+  <component name="sequenceParams">
+    <option name="callDepth" value="8" />
+    <option name="projectClassesOnly" value="false" />
+    <option name="smartInterface" value="true" />
+  </component>
+  <component name="sequencePlugin">
+    <option name="SHOW_SIMPLIFY_CALL_NAME" value="false" />
+  </component>
+</application>

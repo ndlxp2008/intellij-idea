@@ -1,0 +1,21 @@
+<application>
+  <component name="MyBatisCodeHelper">
+    <option name="profile">
+      <Profile>
+        <option name="convertByteOrShortToInt" value="true" />
+        <option name="delimeteAllColumn" value="true" />
+        <option name="generateMethodInService" value="true" />
+        <option name="generateMethodInServiceInterface" value="true" />
+        <option name="ifTestStringNullAndEmpty" value="true" />
+        <option name="useActualParamNames" value="true" />
+        <option name="usejava8LocalDateTimeEct" value="true" />
+        <option name="userMacSet">
+          <set>
+            <option value="9C-29-76-BF-A0-81" />
+            <option value="WN90KHNA8" />
+          </set>
+        </option>
+      </Profile>
+    </option>
+  </component>
+</application>

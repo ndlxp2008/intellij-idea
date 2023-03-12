@@ -1,0 +1,54 @@
+<scheme name="Darcula copy2" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <option name="CONSOLE_FONT_SIZE" value="11" />
+  <option name="CONSOLE_LINE_SPACING" value="0.8" />
+  <attributes>
+    <option name="ERRORS_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="ffffff" />
+        <option name="EFFECT_COLOR" value="bc3f3c" />
+        <option name="ERROR_STRIPE_COLOR" value="9e2927" />
+      </value>
+    </option>
+    <option name="GENERIC_SERVER_ERROR_OR_WARNING">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LOGCAT_ASSERT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ba68c8" />
+      </value>
+    </option>
+    <option name="LOGCAT_DEBUG_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="2196f3" />
+      </value>
+    </option>
+    <option name="LOGCAT_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="cdba96" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LOGCAT_INFO_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="4caf50" />
+      </value>
+    </option>
+    <option name="LOGCAT_WARNING_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff9800" />
+      </value>
+    </option>
+    <option name="WARNING_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

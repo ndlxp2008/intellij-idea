@@ -1,0 +1,9 @@
+<application>
+  <component name="DockerRegistry">
+    <DockerRegistry email="ndlxp2008@163.com">
+      <option name="address" value="registry.cn-beijing.aliyuncs.com" />
+      <option name="name" value="Aliyun Docker Registry" />
+      <option name="username" value="国科心岳" />
+    </DockerRegistry>
+  </component>
+</application>

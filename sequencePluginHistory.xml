@@ -1,0 +1,12 @@
+<application>
+  <component name="sequencePluginHistory">
+    <option name="colorMappingList">
+      <list>
+        <colorMapEntry>
+          <option name="regex" value="org.evaluation.competency.admin.service.api.pc.controller" />
+          <option name="color" value="ffffc800" />
+        </colorMapEntry>
+      </list>
+    </option>
+  </component>
+</application>

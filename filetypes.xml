@@ -1,0 +1,25 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern="systemctl守护进程" type="PLAIN_TEXT" />
+      <mapping pattern="hosts" type="PLAIN_TEXT" />
+      <mapping pattern="ss" type="PLAIN_TEXT" />
+      <mapping pattern="info" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile2" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping pattern="Zipkin-Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="conf3" type="PLAIN_TEXT" />
+      <mapping pattern="conf2" type="PLAIN_TEXT" />
+      <mapping pattern="all_translate" type="PLAIN_TEXT" />
+      <mapping ext="service" type="PLAIN_TEXT" />
+      <mapping ext="k3s部署" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping ext="k8s清理" type="PLAIN_TEXT" />
+      <mapping ext="yarm" type="PLAIN_TEXT" />
+      <mapping ext="socket" type="PLAIN_TEXT" />
+      <mapping pattern="translate描述" type="XML" />
+    </extensionMap>
+  </component>
+</application>

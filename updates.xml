@@ -1,0 +1,25 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <enabledExternalComponentSources>
+      <item value="Android SDK" />
+    </enabledExternalComponentSources>
+    <option name="externalUpdateChannels">
+      <map>
+        <entry key="Android SDK" value="Stable Channel" />
+      </map>
+    </option>
+    <ignoredBuildNumbers>
+      <item value="211.7628.21" />
+    </ignoredBuildNumbers>
+    <knownExternalComponentSources>
+      <item value="Android SDK" />
+    </knownExternalComponentSources>
+    <option name="LAST_BUILD_CHECKED" value="IU-193.7288.26" />
+    <option name="LAST_TIME_CHECKED" value="1671529940128" />
+    <pluginHosts>
+      <item value="https://plugins.zhile.io" />
+      <item value="https://plugins.jetbrains.com/plugins/eap/org.jetbrains.kotlin" />
+    </pluginHosts>
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+  </component>
+</application>

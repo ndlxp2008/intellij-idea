@@ -1,0 +1,82 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="advertise" />
+      <item value=" * The interface for an annotation processor.&#10;" />
+      <item value="We don't allow exceptions of any kind to propagate to the compiler" />
+      <item value="The &lt;tt&gt;Map&lt;/tt&gt; interface provides three &lt;i&gt;collection views&lt;/i&gt;, which&#10; * allow a map's contents to be viewed as a set of keys, collection of values,&#10; * or set of key-value mappings.  The &lt;i&gt;order&lt;/i&gt; of a map is defined as&#10; * the order in which the iterators on the map's collection views return their&#10; * elements.  Some map implementations, like the &lt;tt&gt;TreeMap&lt;/tt&gt; class, make&#10; * specific guarantees as to their order; others, like the &lt;tt&gt;HashMap&lt;/tt&gt;&#10; * class, do not." />
+      <item value="Dictionary" />
+      <item value="The &quot;notify-keyspace-events&quot; takes as argument a string that is composed&#10;#  of zero or multiple characters. The empty string means that notifications&#10;#  are disabled." />
+      <item value="Version of k3s to download from github. Will attempt to download from the&#10;#     stable channel if not specified." />
+      <item value="storage" />
+      <item value="Returns an approximation of the amount in seconds of CPU time used by&#10;--- the program." />
+      <item value="Converts the angle `x` from degrees to radians." />
+      <item value=" When called without arguments, returns a pseudo-random float with uniform&#10;--- distribution in the range *[0,1)*. When called with two integers `m` and&#10;--- `n`, `math.random` returns a pseudo-random integer with uniform distribution&#10;--- in the range *[m, n]*. The call `math.random(n)` is equivalent to `math&#10;--- .random`(1,n)." />
+      <item value=" Sets `x` as the &quot;seed&quot; for the pseudo-random generator: equal seeds&#10;--- produce equal sequences of numbers." />
+      <item value="If the value `x` is convertible to an integer, returns that integer.&#10;--- Otherwise, returns `nil`." />
+      <item value="Returns a boolean, true if and only if integer `m` is below integer `n` when&#10;--- they are compared as unsigned integers." />
+      <item value=" When called without arguments, returns a pseudo-random float with uniform&#10;--- distribution in the range *[0,1)*. When called with two integers `m` and&#10;--- `n`, `math.random` returns a pseudo-random integer with uniform distribution&#10;--- in the range *[m, n]*. The call `math.random(n)` is equivalent to `math" />
+      <item value="Recoi" />
+      <item value=" discard long time none received connection" />
+      <item value="Enterprise" />
+      <item value="IntelliJ does not pick up the processor if it is not in the dependencies.&#10;             There is already an open issue for IntelliJ see https://youtrack.jetbrains.com/issue/IDEA-150621" />
+      <item value="Bounded" />
+      <item value="Enforce" />
+      <item value="Compensate" />
+      <item value="Duty" />
+      <item value="compensate" />
+      <item value="phase" />
+      <item value="domain" />
+      <item value="attendance Status" />
+      <item value="declaring" />
+      <item value=" This will determine whether maven prompts you when it needs input. If set to false,&#10;     | maven will use a sensible default value, perhaps based on some other setting, for&#10;     | the parameter in question." />
+      <item value="insecure" />
+      <item value="ARG" />
+      <item value="Identity" />
+      <item value="Generic" />
+      <item value="Core" />
+      <item value="Bounded Context" />
+      <item value="Infrastruction" />
+      <item value="java.io.IOException: The Application Default Credentials are not available. They are available if running in Google Compute Engine. Otherwise, the environment variable GOOGLE_APPLICATION_CREDENTIALS must be defined pointing to a file defining the credentials. See https://developers.google.com/accounts/docs/application-default-credentials for more information." />
+      <item value="Caused by: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1553926894469775362' for key 'PRIMARY'" />
+      <item value="Caused by: java.nio.channels.UnresolvedAddressException&#10;" />
+      <item value="bundled" />
+      <item value="org.apache.hadoop.ipc.RemoteException(java.io.IOException): File /test/Snipaste_2022-07-21_13-52-03 (2).jpg could only be written to 0 of the 1 minReplication nodes. There are 3 datanode(s) running and 3 node(s) are excluded in this operation." />
+      <item value="Assembler" />
+      <item value="Duplicate entry '-779337726' for key 'PRIMARY'&#10;; Duplicate entry '-779337726' for key 'PRIMARY'" />
+      <item value="Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1' for key 'PRIMARY'" />
+      <item value="initial Capacity" />
+      <item value="Back to object enum in excel" />
+      <item value="extract Id" />
+      <item value="the encoded password from storage to compare with" />
+      <item value="he raw password to encode and match" />
+      <item value="Failed to authenticate since password does not match stored value" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="148" />
+        <entry key="ENGLISH" value="148" />
+        <entry key="FRENCH" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20220105001047218" />
+      </app-key>
+    </option>
+    <option name="foldOriginal" value="true" />
+    <option name="ignoreRegExp" value="" />
+    <option name="keepFormat" value="true" />
+    <option name="phoneticFontFamily" value="Consolas" />
+    <option name="primaryFontFamily" value="Consolas" />
+    <option name="translateDocumentation" value="true" />
+    <option name="translator" value="ai.youdao" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="16eeca2bbb090454" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>
